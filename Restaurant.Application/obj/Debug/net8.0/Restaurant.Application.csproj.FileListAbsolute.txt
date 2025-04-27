@@ -1,0 +1,16 @@
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\bin\Debug\net8.0\Restaurant.Application.deps.json
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\bin\Debug\net8.0\Restaurant.Application.dll
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\bin\Debug\net8.0\Restaurant.Application.pdb
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\bin\Debug\net8.0\Restaurant.Domain.dll
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\bin\Debug\net8.0\Restaurant.Domain.pdb
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaurant.Application.csproj.AssemblyReference.cache
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaurant.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaurant.Application.AssemblyInfoInputs.cache
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaurant.Application.AssemblyInfo.cs
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaurant.Application.csproj.CoreCompileInputs.cache
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaurant.Application.sourcelink.json
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaura.8ED4ADA1.Up2Date
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaurant.Application.dll
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\refint\Restaurant.Application.dll
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\Restaurant.Application.pdb
+D:\Restaurant-api\Restaurant-api-server\Restaurant.Application\obj\Debug\net8.0\ref\Restaurant.Application.dll
